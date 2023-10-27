@@ -1,4 +1,8 @@
 # Inventory Management System
+In this Inventory Management System ----
+Users can order products and manage them as well
+User can also pay online using MasterCard or Visa
+
  
 -----------------------------------
 STEPS
